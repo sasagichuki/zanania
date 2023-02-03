@@ -67,7 +67,7 @@
    --border-radius: 16px;
 
    /* Logo (if image) — minimum height size is 35px / maximum width is 30% of the header */
-   --max-height-logo: 35px;
+   --max-height-logo: 118px;
 
    /* Margin under the heading */
    --margin-bottom-header: 70px;
