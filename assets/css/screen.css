@@ -91,8 +91,8 @@
 
    /* Primary font */
    /* --font-family-primary: 'Corben', serif; */
-   --font-family-primary: 'Hepta Slab', serif;
-   --font-weight-primary-bold: 600;
+   --font-family-primary: 'Montserrat', sans-serif;
+   --font-weight-primary-bold: 800;
 
    /* Font scale for primary font — e.g "10%" to enlarge */
    --font-scale-primary: 0%;
