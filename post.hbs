@@ -51,17 +51,13 @@
 		{{>post_share}}
 	</div>
 </article>
-{{#if access}}
 <div id="indicator" class="post-indicator"></div>
-{{/if}}
 {{>post_related}}
 {{>post_nextprev}}
 <div class="comments-section global-section">
 	<div class="comments-wrap">
 		<div class="comments-content">
-			{{#if access}}
 			{{>services/disqus}}
-			{{/if}}
 		</div>
 	</div>
 </div>
