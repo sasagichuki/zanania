@@ -22,13 +22,13 @@
 			{{>header}}
 			<div class="global-main">
 				{{{body}}}
-				{{>members/subscribe_form}}
+				{{!-- {{>members/subscribe_form}} --}}
 				{{#if @site.description}}
 				<div class="description-section global-flex">{{@site.description}}</div>
 				{{/if}}
 			</div>
 			{{>footer}}
-			{{>members/notifications}}
+			{{!-- {{>members/notifications}} --}}
 		</div>
 		{{>search}}
 		{{#if pagination.pages}}
