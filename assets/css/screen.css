@@ -852,6 +852,15 @@ a {
 .header-logo .is-logo {
    line-height: 0;
    margin: 0;
+
+   /* Rounded Logo pad */
+   background-color: white;
+   padding: 48.5px 20px 25px 20px;
+   height: 3.5em;
+   margin-top: -1.4em;
+   border-radius: 15px;
+   box-shadow: 7px 7px 12px -4px #00000030;
+
 }
 
 .header-logo img {
