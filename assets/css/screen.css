@@ -311,6 +311,10 @@ iframe[title="portal-notification"] {
    display: none
 }
 
+/* Hiding the subscribe button */
+#ghost-portal-root {display: none;}
+
+
 /* //////////////////////////////////////////////////////////////////////////
 
    II. 3rd party scripts
